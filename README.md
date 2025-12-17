@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 ###
 
-<p align="left">My name is K12 and I'm a software engineer focused on <strong>back-end development</strong>, with strong skills in <strong>artificial intelligence</strong> and <strong>machine learning</strong>, including <strong>natural language processing</strong> and <strong>language models</strong>.</p>
+<p align="left">My name is Credo KANUMBEDI and I'm a software engineer focused on <strong>back-end development</strong>, with strong skills in <strong>artificial intelligence</strong> and <strong>machine learning</strong>, including <strong>natural language processing</strong> and <strong>language models</strong>.</p>
 
 ###
 
