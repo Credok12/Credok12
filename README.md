@@ -2,15 +2,14 @@
 
 ###
 
-<p align="left">My name is K12 and I'm a software engineer focused on **back-end development**, with experience in **machine learning** and **artificial intelligence**.</p>
+<p align="left">My name is K12 and I'm a software engineer focused on **back-end development**, with strong skills in **artificial intelligence** and **machine learning**, including **natural language processing** and **language models**.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Building reliable and scalable back-end systems<br>📚 I'm currently exploring advanced AI and machine learning techniques<br>🎯 Goals: Deliver robust, maintainable, and high-quality software solutions<br>🎲 Fun fact: Passionate about clean architecture and emerging technologies</p>
+<p align="left">
+Focused on building **robust, scalable, and efficient back-end systems** with technical rigor.<br>
+Curious and committed to continuous learning, I take a **pragmatic** and **quality-driven** approach, emphasizing clean code, solid architecture, and exploring emerging technologies.
+</p>
 
 ###
 
