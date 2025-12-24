@@ -13,7 +13,5 @@ Curious and committed to continuous learning, I take a <strong>pragmatic</strong
 
 ###
 
-<h2 align="left">I code with</h2>
 
-###
 
